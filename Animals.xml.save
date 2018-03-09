@@ -1,0 +1,25 @@
+<Animals>
+	
+	<Mammals>
+		<Dogs>
+			<GoldenRetriever>
+				<Albert likes="talk"> </Albert>
+				<Angelo </Angelo>
+			</GoldeRetriever>
+			<Corgi>
+				<Mike>Ate an apple</Mike>
+				<Daniel>Is really stupid</Daniel>
+			</Corgi>
+			<Labrador>
+				<Marcus>Does not like Czaplewski</Marcus>
+				<Richard>Likes Czaplewski</Richard>
+			</Labrador>
+		</Dogs>
+	
+	<Fish>
+	
+	<Birds>
+	
+	<Amphibians>
+	
+	<Reptiles>

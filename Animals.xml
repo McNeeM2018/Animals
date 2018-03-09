@@ -1,0 +1,191 @@
+<Animals>
+
+        <Mammals>
+                <Dogs>
+                        <GoldenRetriever>
+                                <Albert likes="talk"> </Albert>
+                                <Angelo likes="run"> </Angelo>
+                        </GoldeRetriever>
+                        <Corgi>
+                                <Mike ate="apple"> </Mike>
+                                <Daniel Is="funny"> </Daniel>
+                        </Corgi>
+                        <Labrador>
+                                <Marcus likes="czaplewski"> </Marcus>
+                                <Richard hates="czaplewski" </Richard>
+                        </Labrador>
+                </Dogs>
+		
+		<Whales>
+			<SpermWhale>
+				<Rupert loves="sleeping"> </Rupert>
+				<Gerald sells="food"> </Gerald>
+			</SpermWhale>
+			<HumpbackWhale>
+				<Dave eats="pancakes"> </Dave>
+				<Chris is="stupid"> </Chris>
+			</HumpbackWhale>
+			<Orca>
+				<Eric friends with="Alex"> </Eric>
+				<Alex friends with="Eric" </Alex>
+			</Orca>       
+		</Whales>
+		
+		<Rodents>
+			<Squirrels>
+				<Christian is="annoying"> </Christian>
+				<Harris swims="fast"> </Harris>
+			</Squirrels>
+			
+			<Rat>
+				<Donald eats="everything"> </Donald>
+				<Timothy is="quick"> </Timothy>
+			</Rat>
+		
+			<Hamster>
+				<Chuck likes="memes"> </Chuck>
+				<Kyle eats="alot"> </Kyle>
+			</Hamster>
+		</Rodents>
+	</Mammals>	
+	 
+	<Fish>
+		<Sharks>
+			<TigerSharks>
+				<Colin likes="anime"> </Colin>
+				<Domonic plays="football",</Domonic>
+			</TigerSharks>
+			<WhaleSharks>		
+				<Amy mood="mad"> </Amy>
+				<Andy mood="happy"< </Andy>
+			</WhaleSharks>
+			<SandShark>
+				<Dianna hair="blonde"> </Dianna>
+				<Conrad skin="tan"> </Conrad>
+			</SandShark>
+		</Sharks>
+		<Salmon>
+			<SockeyeSalmon>
+				<Carol walks="home"> </Carol>
+				<Kayla walks="toschool"> </Kayla>
+			</SockeyeSalmon>
+			<ChinookSalmon>
+				<Jason likes to="skate"> </Jason>
+				<Gary hates to="study"> </Gary>
+			</ChinookSalmon>
+			<AtlanticSalmon>
+				<Tori loves to="eat pasta"> </Tori>
+				<John skin="dark"> </John>
+			</AtlanticSalmon>
+		</Salmon>
+		<Carp>
+			<AsianCarp>
+				<Billy hair="brown"> </Billy>
+				<Bob hair="black"> </Bob>
+			<AsianCarp>
+			<GrassCarp>
+				<Michael shoes="white"> </Michael>
+				<Richard shoes="red"> </Richard>
+			</GrassCarp>
+			<BlackCarp>
+				<Nick face="ugly"> </Nick>
+				<Kevin face="handsome"> </Kevin>
+			</BlackCarp>
+		</Carp>
+	</Fish>
+			
+        <Birds>
+		<Eagles>
+			<BaldEagles>
+				<Sara dress="blue"> </Sara>
+				<Brad shirt="green"> </Brad>
+			</BaldEagles>
+			<GoldenEagles>
+				<Sam socks="white"> </Sam>
+				<Stewie face="round"> </Stewie>
+			</GoldenEagles>
+			<BlackEagles>
+				<Peter weight="heavy"> </Peter>
+				<Lois weight="light"> </Lois>
+			<</BlackEagles>
+		</Eagles>
+		<Owls>
+			<HornedOwl>	
+				<Henry muscles="big"> </Henry>
+				<George muscles="small"> </George>
+			</HornedOwl>
+			<BarnOwl>
+				<Arnold popularity="great"> </Arnold>
+				<Curtis intellect="average"> </Curtis>
+			</BarnOwl>
+			<ScreechOwl>
+				<Will feathers="brown"> </Will>
+				<Burt claws="long"> </Burt>
+			</ScreechOwl>
+		</Owls>
+		<Penguins>
+			<EmperorPenguins>
+				<Dean size="small"> </Dean>
+				<Mathew feet="yellow"> </Mathew>
+			<EmperorPenguins>
+			<KingPenguins>
+				<Noah hair="black"> </Noah>
+				<Max shoes="white"> </Max>
+			</KingPenguins>
+			<ChinstrapPenguins>
+				<Shaun eyes="brown"> </Shaun>
+				<Deric eyes="blue"> </Deric>
+			</ChinstrapPenguins>
+		</Penguins>
+	</Birds>
+				
+ <Amphibians>
+	<Frogs>
+		<HornedFrogs>
+			<Brandon face="bumps"> </Brandon>
+			<Gerald feet="webbed"> </Gerald>
+		</HornedFrogs>
+		<GlassFrogs>
+			<Billy temperature="hot"> </Billy>
+			<Joseph temperature="cold"> </Joseph>
+		</GlassFrogs>
+		<TomatoFrogs>
+			<Joey happiness="nonexistant"> </Joey>
+			<Charle computer="fast"> </Charle>
+		</TomatoFrogs>
+	</Frogs>
+	<Salamanders>
+		<Newts>
+			<Travis skin="slimy"> </Travis>
+			<Jill dress="red"> </Jill>
+		</Newts>
+		<TigerSalamanders>
+			<Scott skin="dry"> </Scott>
+			<Olivia art="amazing"> </Olivia>
+		</TigerSalamanders>
+		<CaveSalamanders>
+			<Edward books="boring"> </Edward>
+			<Jessie shirt="yellow"> </Jessie>
+		</CaveSalamanders>
+	</Salamanders>
+	<Toads>
+		<CaneToads>
+			<Lauren shoes="shiny"> </Lauren>
+			<Stewart muscles="big"> </Stewart>
+		</CaneToads>
+		<AsiaticToads>
+			<Wade skills="developed"> </Wade>
+			<Ray
+		
+
+       
+
+ <Reptiles>
+
+
+
+
+
+
+
+	
